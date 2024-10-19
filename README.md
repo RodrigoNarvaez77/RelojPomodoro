@@ -1,8 +1,38 @@
-# React + Vite
+# Reloj Pomodoro
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Un simple reloj Pomodoro para ayudarte a gestionar tu tiempo de trabajo y descanso utilizando la técnica Pomodoro. Esta aplicación te permite concentrarte en tus tareas y tomar descansos programados para mejorar tu productividad.
 
-Currently, two official plugins are available:
+## Tabla de Contenidos
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Características](#características)
+- [Tecnologías Utilizadas](#tecnologías-utilizadas)
+- [Instalación](#instalación)
+- [Uso](#uso)
+- [Contribución](#contribución)
+- [Licencia](#licencia)
+
+## Características
+
+- Temporizador personalizable para trabajo y descansos.
+- Sonidos de alerta al finalizar cada sesión.
+- Interfaz sencilla y fácil de usar.
+- Registro de sesiones completadas.
+
+## Tecnologías Utilizadas
+
+- React
+- CSS
+- JavaScript
+- Vite
+
+## Instalación
+
+Instrucciones sobre cómo instalar y configurar el proyecto localmente.
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/RodrigoNarvaez77/RelojPomodoro
+
+# Cambiar al directorio del proyecto
+cd pomodoro-timer
+```

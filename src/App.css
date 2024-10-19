@@ -1,0 +1,22 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+  font-family: Arial, sans-serif;
+}
+
+.timer {
+  text-align: center;
+}
+
+.time {
+  font-size: 48px;
+  margin: 20px 0;
+}
+
+.logo {
+  width: 100px; 
+  margin-bottom: 20px; 
+}
